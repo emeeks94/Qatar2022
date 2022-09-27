@@ -104,10 +104,10 @@ button:hover {
     background-image: linear-gradient(rgba(0,0,0,0.7), rgba(81, 84, 88, 0.7)), url(Images/qatar2.jpg);
 }
 .box3 {
-    background-image:linear-gradient(rgba(0,0,0,0.7), rgba(81, 84, 88, 0.7)), url(/Images/qatar3.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.7), rgba(81, 84, 88, 0.7)), url(Images/qatar3.jpg);
 }
 .box4 {
-    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(81, 84, 88, 0.7)), url(/Images/qatar4.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(81, 84, 88, 0.7)), url(Images/qatar4.jpg);
 }
 .box:hover {
     transform: translatey(-10px);
